@@ -1,0 +1,25 @@
+build*/
+devel*/
+install*/
+logs*/
+.catkin_tools/
+**/__pycache__/
+**/*.pyc
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.bag
+*.bag.active
+
+# --- Only track CSVs under catkin_ws/raster_results ---
+catkin_ws/raster_results/**
+!catkin_ws/raster_results/
+!catkin_ws/raster_results/**/*.csv
+
+# --- Ignore images in raster_results ---
+catkin_ws/raster_results/**/*.png
+catkin_ws/raster_results/**/*.jpg
+catkin_ws/raster_results/**/*.jpeg
+catkin_ws/raster_results/**/*.tif
+catkin_ws/raster_results/**/*.tiff
