@@ -1,0 +1,19 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-15T14:39:11.925212,0.0,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z30mm/x350mm_y46mm/raster_log_2025-09-15 14:03:48.999_z30mm_x350mm_y46mm_2025-09-15_14-39-11.924_000.png
+2,2025-09-15T14:39:12.420562,0.502,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z30mm/x350mm_y46mm/raster_log_2025-09-15 14:03:48.999_z30mm_x350mm_y46mm_2025-09-15_14-39-12.420_001.png
+3,2025-09-15T14:39:12.922285,1.002,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z30mm/x350mm_y46mm/raster_log_2025-09-15 14:03:48.999_z30mm_x350mm_y46mm_2025-09-15_14-39-12.921_002.png
+4,2025-09-15T14:39:13.419651,1.502,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z30mm/x350mm_y46mm/raster_log_2025-09-15 14:03:48.999_z30mm_x350mm_y46mm_2025-09-15_14-39-13.419_003.png
+5,2025-09-15T14:39:13.924513,2.002,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z30mm/x350mm_y46mm/raster_log_2025-09-15 14:03:48.999_z30mm_x350mm_y46mm_2025-09-15_14-39-13.923_004.png
+6,2025-09-15T14:39:14.421401,2.502,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z30mm/x350mm_y46mm/raster_log_2025-09-15 14:03:48.999_z30mm_x350mm_y46mm_2025-09-15_14-39-14.420_005.png
+7,2025-09-15T14:39:14.918804,3.002,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z30mm/x350mm_y46mm/raster_log_2025-09-15 14:03:48.999_z30mm_x350mm_y46mm_2025-09-15_14-39-14.918_006.png
+8,2025-09-15T14:39:15.418239,3.502,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z30mm/x350mm_y46mm/raster_log_2025-09-15 14:03:48.999_z30mm_x350mm_y46mm_2025-09-15_14-39-15.417_007.png
+9,2025-09-15T14:39:15.924941,4.002,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z30mm/x350mm_y46mm/raster_log_2025-09-15 14:03:48.999_z30mm_x350mm_y46mm_2025-09-15_14-39-15.924_008.png
+10,2025-09-15T14:39:16.440274,4.502,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z30mm/x350mm_y46mm/raster_log_2025-09-15 14:03:48.999_z30mm_x350mm_y46mm_2025-09-15_14-39-16.439_009.png
+11,2025-09-15T14:39:16.920662,5.001,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z30mm/x350mm_y46mm/raster_log_2025-09-15 14:03:48.999_z30mm_x350mm_y46mm_2025-09-15_14-39-16.920_010.png
+12,2025-09-15T14:39:17.423792,5.502,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z30mm/x350mm_y46mm/raster_log_2025-09-15 14:03:48.999_z30mm_x350mm_y46mm_2025-09-15_14-39-17.423_011.png
+13,2025-09-15T14:39:17.919648,6.001,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z30mm/x350mm_y46mm/raster_log_2025-09-15 14:03:48.999_z30mm_x350mm_y46mm_2025-09-15_14-39-17.918_012.png
+14,2025-09-15T14:39:18.421508,6.502,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z30mm/x350mm_y46mm/raster_log_2025-09-15 14:03:48.999_z30mm_x350mm_y46mm_2025-09-15_14-39-18.421_013.png
+15,2025-09-15T14:39:18.932626,7.0,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z30mm/x350mm_y46mm/raster_log_2025-09-15 14:03:48.999_z30mm_x350mm_y46mm_2025-09-15_14-39-18.932_014.png
+16,2025-09-15T14:39:19.419314,7.501,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z30mm/x350mm_y46mm/raster_log_2025-09-15 14:03:48.999_z30mm_x350mm_y46mm_2025-09-15_14-39-19.418_015.png
+17,2025-09-15T14:39:19.918427,8.001,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z30mm/x350mm_y46mm/raster_log_2025-09-15 14:03:48.999_z30mm_x350mm_y46mm_2025-09-15_14-39-19.917_016.png
+18,2025-09-15T14:39:20.420027,8.502,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z30mm/x350mm_y46mm/raster_log_2025-09-15 14:03:48.999_z30mm_x350mm_y46mm_2025-09-15_14-39-20.419_017.png

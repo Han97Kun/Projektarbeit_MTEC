@@ -1,0 +1,2 @@
+x,y,z,reachable,fraction,radial_distance,time_start,time_end,ocr_series_csv,n_captures
+0.35,0.0,0,True,1.0,0.0,2025-09-11 17:33:08.795,2025-09-11 17:33:31.439,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z0mm/x350mm_y0mm/raster_log_2025-09-11 17:32:24.235_z0mm_x350mm_y0mm_ocr.csv,80
